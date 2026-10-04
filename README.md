@@ -9,7 +9,7 @@ Viết hàm demSoBuoi() để đếm tổng số CheckBox đang được chọn 
 Kết quả test: Khi chọn/bỏ chọn từng buổi, TextView tự động cập nhật số lượng (0 -> 1 -> 2 ->  3) chính xác. Bấm Làm lại số đếm quay về 0.
 
 
-NC3:SThêm MaterialSwitch (swDarkMode) vào giao diện XML.
+NC3:Thêm MaterialSwitch (swDarkMode) vào giao diện XML.
 
 Bắt sự kiện setOnCheckedChangeListener cho công tắc swDarkMode.
 
